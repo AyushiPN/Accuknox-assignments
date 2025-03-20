@@ -13,7 +13,7 @@ This problem statement involves creating a **Product Requirements Document (PRD)
 - **PRD pdf -> Product Requirements Document.pdf** (Static version)
 - **[Wireframe - Figma Link](https://www.figma.com/design/ewvvh9MKpfwrufxUFMbcTP/Accuknox-problem-statement-1?node-id=0-1&t=CaSBlgPlKDe5n13s-1)**  
 
-📍 Files are available in the `Problem Statement 1/` directory.
+📍 Files are available in the `problem-statement-1/` directory.
 
 ---
 
@@ -24,7 +24,7 @@ This problem statement required creating a JSON file for a specific dataset.
 ### 📂 Included Files:
 - **Data JSON -> kubescape-results.json**  
 
-📍 The JSON file is stored in the `Problem Statement 2/` directory.
+📍 The JSON file is stored in the `problem-statement-2/` directory.
 
 ---
 
@@ -38,7 +38,7 @@ A simple Go application that returns the current date and time, deployed using K
 - **Service YAML -> service.yaml**
 - **README with Setup & Screenshots -> README.md**
 
-📍 Files are stored in the `Problem Statement 3/` directory.
+📍 Files are stored in the `problem-statement-3/` directory.
 
 ---
 
