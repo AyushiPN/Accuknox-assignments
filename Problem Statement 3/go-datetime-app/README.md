@@ -2,7 +2,7 @@
 
 ## 🌍 Public URL
 The application is accessible at:  
-**http://<your-external-ip>**
+**http://http://127.0.0.1:54521/**
 
 ## 📜 Kubernetes Resources
 - **Pods**: 2 replicas running  
@@ -11,4 +11,11 @@ The application is accessible at:
 - **Service YAML**: [service.yaml](service.yaml)  
 
 ## 📸 Proof of Running Setup
-### ✅ Running Pods
+![image](https://github.com/user-attachments/assets/e3c92af6-06e9-434d-9e4e-a7c1c60c92da)
+![image](https://github.com/user-attachments/assets/97cff883-bbdb-434d-beb6-fc7e066bca23)
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/a519acaf-56cc-4af0-a1a5-f6da3fbfabbf" />
+
+
+### Click to view the Docker image -> https://hub.docker.com/repository/docker/ayushi0903/datetime-app/general
+### ✅ Running Pods -> pods.txt
+### ✅ Running Service -> service.txt
