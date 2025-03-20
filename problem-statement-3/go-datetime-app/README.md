@@ -1,8 +1,7 @@
 # DateTime App - Kubernetes Deployment
 
-## 🌍 Public URL
-The application is accessible at:  
-**http://127.0.0.1:65116**
+### 📝 Description  
+A simple Go application that returns the current date and time, deployed using Kubernetes with **2 replicas** and exposed via a **LoadBalancer** service.  
 
 ## 📜 Kubernetes Resources
 - **Pods**: 2 replicas running  
@@ -21,3 +20,9 @@ The application is accessible at:
 ### Click to view the Docker image -> https://hub.docker.com/repository/docker/ayushi0903/datetime-app/general
 ### ✅ Running Pods -> pods.txt
 ### ✅ Running Service -> service.txt
+
+### 🌍 Accessing the Application
+The application is exposed via a **LoadBalancer** service.  
+To get the current external IP, run:
+```sh
+kubectl get services datetime-app
