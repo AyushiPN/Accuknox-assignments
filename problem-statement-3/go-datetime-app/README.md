@@ -2,7 +2,7 @@
 
 ## 🌍 Public URL
 The application is accessible at:  
-**http://http://127.0.0.1:54521/**
+**http://127.0.0.1:65116**
 
 ## 📜 Kubernetes Resources
 - **Pods**: 2 replicas running  
