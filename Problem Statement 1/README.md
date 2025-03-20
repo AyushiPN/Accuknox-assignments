@@ -3,7 +3,7 @@
 ## 📄 Product Requirements Document (PRD)  
 The detailed PRD outlining the product specifications, features, and success metrics is available in the PDF below:  
 
-📥 **[Download PRD](Product Requirements Document.pdf)**  
+📥 **Download PRD -> Product Requirements Document.pdf**  
 📥 **[View PRD](https://docs.google.com/document/d/1e8UGHiEJGPC-mTWI38OI4C1tCbo1NOYM-aDdi2b0kT4/edit?usp=sharing)**  
 ---
 
