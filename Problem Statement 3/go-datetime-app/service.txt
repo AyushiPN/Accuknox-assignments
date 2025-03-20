@@ -1,0 +1,2 @@
+NAME                   TYPE           CLUSTER-IP       EXTERNAL-IP   PORT(S)        AGE
+datetime-app-service   LoadBalancer   10.101.211.168   <pending>     80:32329/TCP   4m12s

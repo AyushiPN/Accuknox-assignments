@@ -1,0 +1,4 @@
+NAME                            READY   STATUS    RESTARTS   AGE
+datetime-app-7966f87596-9mzz6   1/1     Running   0          4m10s
+datetime-app-7966f87596-f5vl4   1/1     Running   0          4m10s
+nginx-5869d7778c-tlhg4          1/1     Running   0          23h
