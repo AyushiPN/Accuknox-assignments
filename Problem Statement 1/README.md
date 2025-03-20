@@ -10,7 +10,7 @@ The detailed PRD outlining the product specifications, features, and success met
 ## 🎨 Low-Fidelity Wireframe  
 The wireframe for the product design can be accessed using the link below:  
 
-🔗 **[View Wireframe on Figma] (https://www.figma.com/design/ewvvh9MKpfwrufxUFMbcTP/Accuknox-problem-statement-1?node-id=0-1&t=CaSBlgPlKDe5n13s-1)**  
+🔗 **[View Wireframe on Figma](https://www.figma.com/design/ewvvh9MKpfwrufxUFMbcTP/Accuknox-problem-statement-1?node-id=0-1&t=CaSBlgPlKDe5n13s-1)**  
 
 ---
 
